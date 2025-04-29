@@ -31,25 +31,32 @@ jobs:
         if: steps.source.outputs.SOURCE_HEAD  != steps.target.outputs.TARGET_HEAD  
         run: |
           echo "检测到源仓库有更新，开始同步..."
-          cd target 
-          # 备份工作流文件
-          mkdir -p /tmp/workflow_backup
-          cp -r .github/workflows/ /tmp/workflow_backup/
+          # cd target 
+          # # 备份工作流文件
+          # mkdir -p /tmp/workflow_backup
+          # cp -r .github/workflows/ /tmp/workflow_backup/
 
-          # 强制更新
-          git config --global user.email "15172206465@163.com"
-          git config --global user.name "yjczhou"
-          git remote add upstream https://github.com/fish2018/PG  || true 
-          git fetch upstream 
-          git reset --hard upstream/main 
+          # # 强制更新
+          # git config --global user.email "15172206465@163.com"
+          # git config --global user.name "yjczhou"
+          # git remote add upstream https://github.com/fish2018/PG  || true 
+          # git fetch upstream 
+          # git reset --hard upstream/main 
 
-          # 恢复工作流
-          mkdir -p .github/workflows/
-          cp -r /tmp/workflow_backup/workflows/ .github/workflows/
-          git add .github/workflows/
-          git commit -m "恢复工作流"
+          # # 恢复工作流
+          # mkdir -p .github/workflows/
+          # cp -r /tmp/workflow_backup/workflows/ .github/workflows/
+          # git add .github/workflows/
+          # git commit -m "恢复工作流"
           
-          git push --force origin HEAD:main 
+          # git push --force origin HEAD:main 
+          git clone https://github.com/fish2018/PG  /tmp/source
+          cd target
+          # 同步除工作流外的所有文件 
+          rsync -av --delete --exclude='.github/workflows/' /tmp/source/ .
+          git add .
+          git commit -m "同步远端仓库"
+          git push origin HEAD:main
         
       - name: No updates 
         if: steps.source.outputs.SOURCE_HEAD  == steps.target.outputs.TARGET_HEAD  
