@@ -58,8 +58,8 @@ jobs:
           # 同步除工作流外的所有文件 
           rsync -av --delete --exclude='.github/workflows/' --exclude='.*' --exclude='*/.*' /tmp/source/ .
           git add .
-          git commit -m "同步远端仓库"
-          git push origin HEAD:main
+          git commit --allow-empty -m "同步远端仓库"
+          git push origin HEAD:main || echo "无变更跳过"
         
       - name: No updates 
         if: steps.source.outputs.SOURCE_HEAD  == steps.target.outputs.TARGET_HEAD  
