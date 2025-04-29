@@ -50,6 +50,9 @@ jobs:
           # git commit -m "恢复工作流"
           
           # git push --force origin HEAD:main 
+
+          git config --global user.email "15172206465@163.com"
+          git config --global user.name "yjczhou"
           git clone https://github.com/fish2018/PG  /tmp/source
           cd target
           # 同步除工作流外的所有文件 
