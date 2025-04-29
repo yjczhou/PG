@@ -56,7 +56,7 @@ jobs:
           git clone https://github.com/fish2018/PG  /tmp/source
           cd target
           # 同步除工作流外的所有文件 
-          rsync -av --delete --exclude='.github/workflows/' /tmp/source/ .
+          rsync -av --delete --exclude='.github/workflows/' --exclude='.*' --exclude='*/.*' /tmp/source/ .
           git add .
           git commit -m "同步远端仓库"
           git push origin HEAD:main
