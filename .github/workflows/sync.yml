@@ -12,7 +12,7 @@ jobs:
       - name: Checkout target repo 
         uses: actions/checkout@v4 
         with:
-          repository: your-username/your-repo 
+          repository: yjczhou/PG
           path: target 
           fetch-depth: 0 
  
