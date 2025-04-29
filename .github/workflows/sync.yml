@@ -1,0 +1,46 @@
+name: Smart Repository Sync 
+ 
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天UTC时间0点运行 
+  workflow_dispatch:     # 允许手动触发 
+ 
+jobs:
+  check-and-sync:
+    runs-on: ubuntu-latest 
+    steps:
+      - name: Checkout target repo 
+        uses: actions/checkout@v4 
+        with:
+          repository: your-username/your-repo 
+          path: target 
+          fetch-depth: 0 
+ 
+      - name: Get source repo info 
+        id: source 
+        run: |
+          echo "SOURCE_HEAD=$(git ls-remote https://github.com/fish2018/PG  HEAD | cut -f1)" >> $GITHUB_OUTPUT 
+      
+      - name: Get target repo info 
+        id: target 
+        run: |
+          cd target 
+          echo "TARGET_HEAD=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT 
+      
+      - name: Compare commits 
+        if: steps.source.outputs.SOURCE_HEAD  != steps.target.outputs.TARGET_HEAD  
+        run: |
+          echo "检测到源仓库有更新，开始同步..."
+          cd target 
+          git config --global user.email "15172206465@163.com"
+          git config --global user.name "yjczhou"
+          git remote add upstream https://github.com/fish2018/PG  || true 
+          git fetch upstream 
+          git reset --hard upstream/main 
+          git push --force origin HEAD:main 
+        
+      - name: No updates 
+        if: steps.source.outputs.SOURCE_HEAD  == steps.target.outputs.TARGET_HEAD  
+        run: |
+          echo "当前时间: $(date)"
+          echo "源仓库没有新的提交，无需同步"
