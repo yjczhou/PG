@@ -58,25 +58,28 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 1.最强直播增加BJYD，并支持BJYD的5.1上混和回看。
 2.修复音质增强的直播回看异常。
 3.修复BJYD在IP更改后的异常。
+4.大幅度提高了最强直播低码频道的快速切换稳定性，这次真的可以随意换台了。
+5.BJYD也增加了防止冲击服务器的黑科技。
+6.真正+彻底解决低码频道换台导致的风控问题。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250504-0909.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250504-0909.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250504-0909.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250504-0909.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250505-0831.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250505-0831.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250505-0831.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-0831.zip
 ```
 
 ## tgsearch包下载地址
