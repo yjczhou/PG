@@ -55,28 +55,28 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 【 阿里,夸克,123使用本zip包不限速，阿里原画不需要svip也不用三方权益包。可能是地球上唯一一个可以流畅在线播放ISO原盘的zip（注：使用外部播放器播放原盘ISO需要在任务列表中把影视锁定不被杀掉后台才能稳定播放）。注意：不支持仅使用jar，必须zip完整解压使用。网盘原画仅支持原版的影视、OK影视。對本zip内的核心jar的魔改或縫合都會導致網盤原畫及直播不可播放。多个播放器或多次外挂本zip情况下，需要只保留一个播放器或1个外挂运行，其他的要主动杀掉，否则可能出现网盘播放异常。】
 
 今日更新内容：(更多内容阅读zip内的README.txt)
-1.修复最强直播中的低码和BJYD画面抖动的问题。继续优化低码频道换台稳定性。最强国内直播的非合并版中把BJYD单列分组。
-2.最强直播中的低码支持配置多个UID，用英文逗号分割即可，配置多个UID后会均衡使用每个UID，防止快速换台导致UID被临时封禁。
-3.优化最强直播低码的UID均衡策略。注意，即使使用多个UID，如果大量快速切换频道依然有黑IP的风险，如果被低码服务器前端防火墙认定攻击就只能路由器重新拨号获取新IP才能继续欣赏低码。
+1.最强直播中的低码频道多UID切换策略改为遇到临时封禁才切换下一个，不再均衡使用每一个，临时封禁后设置了5分钟的冷却期，在此期间该UID不会被再次使用。
+2.B站和AlistJar支持音频增强。宝宝已测试真心人的古典音乐MP3可以完美上混5.1声道。为支持B站的mpd视频流，需要更新ffmpeg.dyn.tar.xz。
+3.彻底移除来路不明的ITV线路，防止不明真相的有缘人被弹窗诈骗。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250505-1948.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250505-1948.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250505-1948.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250505-1948.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250506-1953.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250506-1953.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250506-1953.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250506-1953.zip
 ```
 
 ## tgsearch包下载地址
