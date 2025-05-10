@@ -57,25 +57,26 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 今日更新内容：(更多内容阅读zip内的README.txt)
 1.修复直播转码和音效增强时的视轨识别错误。直播或点播转码异常的可以删除SD卡TV目录下的.ffmpeg_streamcache.json再试
 2.最强直播中的低码频道除几个AV3A频道外不再强制转码，如果需要看音质增强版本的低码可以到“音质增强”分类中欣赏。
+3.修复最强直播中的低码频道备用UID没有自动切换的问题。并延长被风控的UID冷却期到10分钟。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250509-0826.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250509-0826.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250509-0826.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-0826.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250509-1830.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250509-1830.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250509-1830.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250509-1830.zip
 ```
 
 ## tgsearch包下载地址
