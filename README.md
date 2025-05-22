@@ -55,29 +55,27 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 【 阿里,夸克,123使用本zip包不限速，阿里原画不需要svip也不用三方权益包。可能是地球上唯一一个可以流畅在线播放ISO原盘的zip（注：使用外部播放器播放原盘ISO需要在任务列表中把影视锁定不被杀掉后台才能稳定播放）。注意：不支持仅使用jar，必须zip完整解压使用。网盘原画仅支持原版的影视、OK影视。對本zip内的核心jar的魔改或縫合都會導致網盤原畫及直播不可播放。多个播放器或多次外挂本zip情况下，需要只保留一个播放器或1个外挂运行，其他的要主动杀掉，否则可能出现网盘播放异常。】
 
 今日更新内容：(更多内容阅读zip内的README.txt)
-1.修复WebDAV初始化容易失败并导致无法参与全局搜索的问题。
-2.WebDAV中搜到的ISO直接播放（不再加载目录）
-3.修复WebDAV时灵时不灵的问题。
-4.优化音质增强，低音通道只处理LFE，防止和主背景音互相干扰。
+1.修复转发小问题。
+2.音质增强增加了两个预设，音乐和电影，默认是电影，会把人声向中置集中，并增加简单环绕算法。而音乐模式是每个声道均匀发声，不增加环绕特效。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250521-0659.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250521-0659.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250521-0659.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250521-0659.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250522-0826.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250522-0826.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250522-0826.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250522-0826.zip
 ```
 
 ## tgsearch包下载地址
