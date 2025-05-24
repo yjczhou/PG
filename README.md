@@ -56,25 +56,27 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 
 今日更新内容：(更多内容阅读zip内的README.txt)
 1.优化WebDAV搜索结果处理。
+2.AList和WebDAV增加音质增强（完整转码）
+3.WebDAV支持全目录（包含子目录）随机播放，对音乐分享尤其有用。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250523-0631.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250523-0631.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250523-0631.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-0631.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250523-2123.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250523-2123.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250523-2123.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250523-2123.zip
 ```
 
 ## tgsearch包下载地址
