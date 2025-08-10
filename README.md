@@ -64,7 +64,6 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250808-0818.zip
 https://raw.yzuu.cf/fish2018/PG/main/pg.20250808-0818.zip
 https://raw.nuaa.cf/fish2018/PG/main/pg.20250808-0818.zip
 https://raw.kkgithub.com/fish2018/PG/main/pg.20250808-0818.zip
