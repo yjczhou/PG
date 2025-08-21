@@ -16,7 +16,7 @@ http://www3.fish2018.ip-ddns.com/p/jsm.json
 
 
 ## TG影视资源频道
-[tgsearchers2](https://t.me/s/tgsearchers2) 实时更新最新影视资源并自动清理失效链接(123、夸克、阿里云、天翼、UC、115、移动、磁力、百度、迅雷)，可用于tgsearch/tgsou搜索。
+[tgsearchers3](https://t.me/s/tgsearchers3) 实时更新最新影视资源并自动清理失效链接(123、夸克、阿里云、天翼、UC、115、移动、磁力、百度、迅雷)，可用于tgsearch/tgsou搜索。
 
 ## tgsearch服务器
 ```
