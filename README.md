@@ -58,25 +58,26 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 1.修复观影图片
 2.修复鸟窝域名
 3.修复tgsearch本地以“仅频道”方式运行时对session的错误依赖。
+4.TG豆瓣的代理标识改为proxy，可以正确加载频道图片了。
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250831-0849.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250831-0849.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250831-0849.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-0849.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250831-1355.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250831-1355.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250831-1355.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250831-1355.zip
 ```
 
 ## tgsearch包下载地址
