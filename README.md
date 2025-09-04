@@ -59,22 +59,22 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20250902-1518.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20250902-1518.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20250902-1518.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250902-1518.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20250903-1624.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20250903-1624.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20250903-1624.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20250903-1624.zip
 ```
 
 ## tgsearch包下载地址
@@ -90,26 +90,27 @@ tgsearch多平台独立运行文件，使用./tgsearch
 内置订阅推荐：https://pgicloud.github.io
 
 今日更新：（更多信息查看包内README）
-1.增加-c参数，使用此参数会让tgserach仅支持频道搜索，不支持群组，也不需要配置sessionV1和V2
+1.支持私密频道（+号开头）（需要v2session)
+2.优化私密频道搜索，私密频道本来应该放到群组中搜索，但现在放到频道中也可以搜了（前提依然是要有v2session）
 ```
 
 ```shell
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://raw.yzuu.cf/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://raw.nuaa.cf/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://raw.kkgithub.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250828-1512.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://raw.yzuu.cf/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://raw.nuaa.cf/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://raw.kkgithub.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/tgsearchpack.20250903-2137.zip
 ```
 
 ## sync-pg 本地包同步脚本
