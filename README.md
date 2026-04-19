@@ -56,25 +56,26 @@ PG包[README.txt](https://www.252035.xyz/p/README.txt)
 今日更新内容：(更多内容阅读zip内的README.txt)
 1.修复GO代理及allinone的32位二进制无法运行的问题
 2.GO代理加速优化。
+3.解决网盘文件过小和过大时并发不够的问题
 ```
 
 ```bash
-https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://raw.yzuu.cf/fish2018/PG/main/pg.20260418-0639.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20260418-0639.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20260418-0639.zip
-https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-0639.zip
+https://slink.ltd/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20260418-2211.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20260418-2211.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20260418-2211.zip
+https://cors.zme.ink/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://git.886.be/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://ghfast.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20260418-2211.zip
 ```
 
 ## tgsearch包下载地址
